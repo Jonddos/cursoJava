@@ -46,6 +46,16 @@ public class Declaradores_Operadores {
 
         System.out.println("En "+cm+" cm hay "+ resultado + " pulgadas");
 
+        /*---------------------------Declaracion de varias variables o Constantes*/
+
+        int va1, va2, va3;
+
+        va1 = 8;
+        va2 = 2;
+        va3 = va1+va2;
+
+        System.out.println("El resultado es: "+va3);
+
 
     }
 }
